@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Google-feed>
+  <id>99</id>
+  <title>
+    Lyon LYOF01
+  </title>
+  <description>
+    Két fiókos TV állvány.<br/>
+    Szalagvilágítással.
+  </description>
+  <link>
+    http://www.ateir.hu/termek/99
+  </link>
+  <image_link>
+    http://www.ateir.hu/images/59ba48d424406.jpg
+  </image_link>
+  <!-- Ötletem sincs
+  <availability>
+  </availability>
+  -->
+  <price>34800</price>
+  <brand>
+    Meble Wójcik
+  </brand>
+  <!-- Ezt még ki kell találni szintúgy
+  <gtin></gtin>
+  <mpn></mpn>
+  <shipping></shipping>
+  -->
+</Google-feed>
